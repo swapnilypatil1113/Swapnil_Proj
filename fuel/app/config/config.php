@@ -194,7 +194,7 @@ return array(
 		 * );
 		 */
 		'packages'	=> array(
-			'orm','auth','fuel-test-package'
+			'orm','auth','Swapnil_Proj'
 		),
 
 		/**
